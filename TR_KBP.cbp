@@ -35,7 +35,11 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="barang_2.cpp" />
+		<Unit filename="barang_2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="stackover1.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
