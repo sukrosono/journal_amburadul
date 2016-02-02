@@ -1,4 +1,4 @@
-# Fundamental javascript knowledge you should know
+## Fundamental javascript knowledge you should know
 ---
 Initial text
 `banal` should have `table of content`.
