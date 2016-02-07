@@ -2,6 +2,7 @@
 ---
 ### Table of Contents
   1. [Unit Testing]`to populate`
+
 #### Why write unit test
 ---
     1. [Is it worthwhile to write unit tests for scientific research codes?](http://scicomp.stackexchange.com/questions/206/is-it-worthwhile-to-write-unit-tests-for-scientific-research-codes?newreg=9d36cb900df445d4a9b61e916a716b2e)
@@ -17,10 +18,14 @@
 ---
     1. [Megalord Repo testing-standards](https://github.com/megalord/testing-standards)
 
+
 #### Tutorial
----  
+---
+
     1. [Unit testing AngularJS applications](https://www.airpair.com/angularjs/posts/unit-testing-angularjs-applications "by Pablo Villoslada Puigcerber")
     1. [intro unit testing in angularjs](https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/ "from smashing magazine")
+#### Helper
+  1. [angular-unit-testing-helpers](https://github.com/dakolech/angular-unit-testing-helpers "repo")
 
 ---
 
@@ -42,4 +47,4 @@
       * [Jasmine community group](https://groups.google.com/forum/#!forum/jasmine-js "jasmine's group on google")
 
   ---
-  1. [Tress testing](https://en.wikipedia.org/wiki/Stress_testing_%28software%29 "Wikipedia about stress testing")`to do`
+  1. [Stress testing](https://en.wikipedia.org/wiki/Stress_testing_%28software%29 "Wikipedia about stress testing")`to do`
