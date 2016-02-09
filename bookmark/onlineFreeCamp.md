@@ -5,7 +5,7 @@
 *why?* : It break things to smaller thing, and order it appropriately.
 
 ---
-### [FreeCodeCamp] (http://freecodecamp.com/ "FCC website")
+### [FreeCodeCamp](http://freecodecamp.com/ "FCC website")
 ---
 *why?* : It's free, and knowledge should free.
 
