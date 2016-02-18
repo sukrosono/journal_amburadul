@@ -26,6 +26,7 @@
 
   1. [Unit testing AngularJS applications](https://www.airpair.com/angularjs/posts/unit-testing-angularjs-applications "by Pablo Villoslada Puigcerber")
   1. [intro unit testing in angularjs](https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/ "from smashing magazine")
+  
 ### Helper
 ---
   0. [angular-unit-testing-helpers](https://github.com/dakolech/angular-unit-testing-helpers "repo")
