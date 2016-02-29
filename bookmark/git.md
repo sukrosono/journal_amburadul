@@ -19,3 +19,5 @@
     1. [git show-ref](https://git-scm.com/docs/git-show-ref)
 
     1. [ignore file](https://help.github.com/articles/ignoring-files/ "on our beloved github")
+    1. [undo modification of one file](http://stackoverflow.com/questions/692246/undo-working-copy-modifications-of-one-file-in-git)
+    1. [Please, oh please, use git pull --rebase](https://coderwall.com/p/7aymfa/please-oh-please-use-git-pull-rebase)
