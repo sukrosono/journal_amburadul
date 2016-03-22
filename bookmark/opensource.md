@@ -1,3 +1,10 @@
+### Videos
+---
+0. Open source basic<br>
+[![](https://img.youtube.com/vi/Tyd0FO0tko8/0.jpg)](https://www.youtube.com/watch?v=Tyd0FO0tko8)
+
+### Articles
+---
 0. [Open source maintainer guidelines](https://18f.github.io/open-source-program/pages/maintainer_guidelines/)
 
 0. tips
