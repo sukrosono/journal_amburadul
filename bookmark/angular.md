@@ -9,6 +9,7 @@
 #### Thought
 ---
   0. [LEARNING ANGULARJS MAGIC: EXPRESSIONS](http://blog.pathgather.com/blog/2014/12/7/learning-angularjs-magic-expressions)
+  0. [ng transclude part 1](https://www.accelebrate.com/blog/angularjs-transclusion-part-1/)
 
 #### Common
 ---
