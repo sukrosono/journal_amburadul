@@ -79,3 +79,20 @@
 
 0. Self control<br>
   [![](https://img.youtube.com/vi/tTb3d5cjSFI/0.jpg)](https://www.youtube.com/watch?v=tTb3d5cjSFI)<br>
+0. Why learning is awesome<br>
+  [![](https://img.youtube.com/vi/NgDGlcxYrhQ/0.jpg)](https://www.youtube.com/watch?v=NgDGlcxYrhQ)
+
+0. The power of introverts<br>
+  [![](https://img.youtube.com/vi/c0KYU2j0TM4/0.jpg)](https://www.youtube.com/watch?v=c0KYU2j0TM4)
+
+0. Depression, the Secret We Share by Andrew Solomon<br>
+  [![](https://img.youtube.com/vi/-eBUcBfkVCo/0.jpg)](https://www.youtube.com/watch?v=-eBUcBfkVCo)
+0. Everything You Think You Know About Addiction Is Wrong<br>
+  > The opposite of addiction is connection
+
+  [![](https://img.youtube.com/vi/PY9DcIMGxMs/0.jpg)](https://www.youtube.com/watch?v=PY9DcIMGxMs)
+
+0. Do we see reality as it is?
+  https://www.youtube.com/watch?v=oYp5XuGYqqY
+0. Why
+  https://www.youtube.com/watch?v=oYp5XuGYqqY
