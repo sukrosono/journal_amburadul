@@ -15,6 +15,6 @@ Initial text
   0. [How to CORS](http://www.eriwen.com/javascript/how-to-cors/)
   0. [CORS MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
   0. [Don't recklessly polyfill](http://stackoverflow.com/questions/5072136/javascript-filter-for-objects)
-
+  0. [When i should use arrow function](http://stackoverflow.com/questions/22939130/when-should-i-use-arrow-functions-in-ecmascript-6 "SO question")
 ### Tools
   0. [ESlint](http://eslint.org "eslint website")
