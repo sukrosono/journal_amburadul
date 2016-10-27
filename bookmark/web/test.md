@@ -9,3 +9,8 @@
 #### Tools
 
 0. [Edge static tools](https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/)
+
+
+#### Reference
+
+0. [FrontEnd Testing Plan](https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/)
