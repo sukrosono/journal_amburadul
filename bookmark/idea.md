@@ -17,6 +17,13 @@
 0.  silence error, read and parsing json file on php ( last json leave trailing , )
   will result empty (NULL)
 
+#### Youtube lyric
+
+0. Once in life time - dragonforce [x]
+0. Hello - adele (reggea cover) https://www.youtube.com/watch?v=OmnDEUD9NyI [ ]
+
+
+
 ### wh
 
 0.  Autoblock link penipuan hadiah lewat sms
