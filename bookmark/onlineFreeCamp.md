@@ -12,3 +12,5 @@
 *why?* : It'll give you certification when you complete the challenges.
 
 *why?* : It have [gitter](http://gitter.am Gitter website), A nice place to ask when you stuck.
+
+[Some Free Certification 2017](http://www.webemployed.com/best-free-online-courses-certificates-in-2017/)
