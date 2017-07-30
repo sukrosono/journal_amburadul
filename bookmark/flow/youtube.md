@@ -105,3 +105,18 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 
 0. Money can buy happiness<br>
 [![](https://img.youtube.com/vi/ZwGEQcFo9RE/0.jpg)](https://www.youtube.com/watch?v=ZwGEQcFo9RE)
+
+0.  The secret to desire in a long-term relationship<br>
+  >  damn she so cute
+
+  [![](https://img.youtube.com/vi/sa0RUmGTCYY/0.jpg)](https://www.youtube.com/watch?v=sa0RUmGTCYY)
+
+0.  Are you really my friend?<br>
+  > real life friends against online friends
+
+  [![](https://img.youtube.com/vi/_y7ZgcsvMTo/3.jpg)](https://www.youtube.com/watch?v=_y7ZgcsvMTo)
+
+0.  The surprising beauty of mathematics
+  > You are mathematically sexy
+
+  [![](https://img.youtube.com/vi/SEiSloE1r-A/0.jpg)](https://www.youtube.com/watch?v=SEiSloE1r-A)
