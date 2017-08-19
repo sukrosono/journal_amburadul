@@ -1,5 +1,10 @@
 ## All about git
 ---
+
+  0. Workflow
+    1. [What is a good Git workflow?](https://help.github.com/articles/what-is-a-good-git-workflow/)
+    > [visual tutorial](https://guides.github.com/introduction/flow/) on github workflow
+
   0. Rebase.
 
     1. [official rebase](https://git-scm.com/book/tr/v2/Git-Tools-Rewriting-History "Better use official")
@@ -22,4 +27,8 @@
     1. [git guide no deep shit :)](http://rogerdudler.github.io/git-guide/)
     1. [SO QA tag or branche](http://stackoverflow.com/questions/1457103/how-is-a-tag-different-from-a-branch-which-should-i-use-here)
 
+  0.  Config
+    1.  Core Editor, on [github help](https://help.github.com/articles/associating-text-editors-with-git/)
+	  > hate vim, need the GUI text editor?
+	  `git config --global core.editor "path/to/text/editor"`
   0. [Glossary](https://jk.gs/gitglossary.html)
