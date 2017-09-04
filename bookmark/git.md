@@ -26,6 +26,8 @@
     1. [getting solid at git rebase vs merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa#.fa8ctsh9o)
     1. [git guide no deep shit :)](http://rogerdudler.github.io/git-guide/)
     1. [SO QA tag or branche](http://stackoverflow.com/questions/1457103/how-is-a-tag-different-from-a-branch-which-should-i-use-here)
+    1.  clone specific branch
+    > git clone -b [branch] [remote_repo]
 
   0.  Config
     1.  Core Editor, on [github help](https://help.github.com/articles/associating-text-editors-with-git/)

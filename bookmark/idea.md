@@ -16,7 +16,7 @@
 
 0.  silence error, read and parsing json file on php ( last json leave trailing , )
   will result empty (NULL)
-
+0.  [get the number of file in google drive](https://googlesystem.blogspot.co.id/2013/08/find-number-of-files-from-google-drive.html?_sm_au_=iVVf50SqP1kMB6N5#gsc.tab=0) use the share method
 #### Youtube lyric
 
 0. Once in life time - dragonforce [x]

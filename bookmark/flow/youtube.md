@@ -128,3 +128,12 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 0.  Alkaline diet
 
   [![](https://img.youtube.com/vi/qu645wvzMwQ/0.jpg)](https://www.youtube.com/watch?v=qu645wvzMwQ)
+
+0.  Understanding Empathy
+  [![](https://img.youtube.com/vi/pi86Nr9Mdms/0.jpg)](https://www.youtube.com/watch?v=pi86Nr9Mdms)
+
+0.  Love Your Work
+  [![](https://img.youtube.com/vi/jDIZS4IQlQk/0.jpg)](https://www.youtube.com/watch?v=jDIZS4IQlQk)
+
+0.  5 Rules to Follow as You Find Your Spark
+  [![](https://img.youtube.com/vi/8l-YpiiBH4o/0.jpg)](https://www.youtube.com/watch?v=8l-YpiiBH4o)
