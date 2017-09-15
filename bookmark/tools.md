@@ -21,3 +21,11 @@
   0.  [dirtymarkup html, css, js + API](https://dirtymarkup.com/)
   0.  [freeformater](https://www.freeformatter.com)
   0.  [continue hunt cli tools](https://www.google.co.id/search?q=html+pretty+print+npm&oq=html+pretty+print+npm&gs_l=psy-ab.3..33i22i29i30k1.12784.15800.0.16882.9.9.0.0.0.0.283.1215.2j4j2.8.0....0...1.1.64.psy-ab..1.8.1211...0j35i39k1j0i22i10i30k1.7WO0l7iA_WE)
+
+
+0. Node
+
+  0.  [Node Version Manager](https://github.com/coreybutler/nvm-windows)
+  >  written in go, use installer
+
+0.  [Headless browser](https://github.com/dhamaniasad/HeadlessBrowsers)
