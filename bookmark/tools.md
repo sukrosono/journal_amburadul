@@ -1,19 +1,16 @@
 ### Tools
 
-0.  Atom
+1.  Atom
+  2. [Essential tools for atom](https://www.sitepoint.com/10-essential-atom-add-ons/)
+  2. [Auto complete provider list](https://github.com/atom/autocomplete-plus/wiki/Autocomplete-Providers)
+  2. [Hyperclick](https://atom.io/packages/hyperclick)
+  2. [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
 
 
-  0. [Essential tools for atom](https://www.sitepoint.com/10-essential-atom-add-ons/)
-  0. [Auto complete provider list](https://github.com/atom/autocomplete-plus/wiki/Autocomplete-Providers)
-  0. [Hyperclick](https://atom.io/packages/hyperclick)
-  0. [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
-
-
-0.  GIF
-
-  0.  [makeagif](http://makeagif.com/video-to-gif) support url
-  0.  [giphy](https://giphy.com/create/gifmaker) support url
-  0.  [ezgif](https://giphy.com/create/gifmaker) file only (max 100MB)
+1.  GIF
+  1.  [makeagif](http://makeagif.com/video-to-gif) support url
+  1.  [giphy](https://giphy.com/create/gifmaker) support url
+  1.  [ezgif](https://giphy.com/create/gifmaker) file only (max 100MB)
 
 
 0.  Prettify Code
@@ -25,7 +22,13 @@
 
 0. Node
 
-  0.  [Node Version Manager](https://github.com/coreybutler/nvm-windows)
-  >  written in go, use installer
+  0.  [Node Version Manager](https://github.com/creationix/nvm)
+
 
 0.  [Headless browser](https://github.com/dhamaniasad/HeadlessBrowsers)
+
+0.  Windows
+
+  0. [Chocolately](https://chocolatey.org/install)
+  0. [Node Version Manager](https://github.com/coreybutler/nvm-windows)
+  >  written in go, use installer
