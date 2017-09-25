@@ -13,4 +13,6 @@
 
 #### Reference
 
-0. [FrontEnd Testing Plan](https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/)
+0.  [FrontEnd Testing Plan](https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/)
+
+0.  [Javascript automation framework](https://www.joecolantonio.com/2016/06/14/top-8-essential-javascript-automation-frameworks/)

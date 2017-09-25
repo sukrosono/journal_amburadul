@@ -9,3 +9,8 @@ v4.x.x widespread and support both tablet and phone
  recommend to support start 4.0.3
 
 check percentage of android version via developer.android.com/about/dashboards
+
+
+### Testing
+
+0.  [Android app test automation](https://www.testlab4apps.com/5-open-source-tools-for-android-app-test-automation/)
