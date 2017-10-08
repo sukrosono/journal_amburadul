@@ -140,3 +140,8 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 
 0.  How to Achieve Your Most Ambitious Goals by Stephen Duneier
   [![](https://img.youtube.com/vi/TQMbvJNRpLE/0.jpg))](https://www.youtube.com/watch?v=TQMbvJNRpLE)
+  > Marginal improvement
+
+0.  Motivate yourself with visions, goals and willpower by Hugo Kehr
+  [![](https://img.youtube.com/vi/iuIisjRIcVI/0.jpg))](https://www.youtube.com/watch?v=iuIisjRIcVI)
+  > Heart, head, and hand. 3 component for motivation
