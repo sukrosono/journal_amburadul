@@ -137,3 +137,6 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 
 0.  5 Rules to Follow as You Find Your Spark
   [![](https://img.youtube.com/vi/8l-YpiiBH4o/0.jpg)](https://www.youtube.com/watch?v=8l-YpiiBH4o)
+
+0.  How to Achieve Your Most Ambitious Goals by Stephen Duneier
+  [![](https://img.youtube.com/vi/TQMbvJNRpLE/0.jpg))](https://www.youtube.com/watch?v=TQMbvJNRpLE)
