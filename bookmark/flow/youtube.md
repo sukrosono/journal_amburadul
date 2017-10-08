@@ -149,3 +149,7 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 0.  Art of Focus
   [![](https://img.youtube.com/vi/xF80HzqvAoA/0.jpg))](https://www.youtube.com/watch?v=xF80HzqvAoA)
   > ..
+
+0.  Life is infinite game by Simon Sinek
+  [![](https://img.youtube.com/vi/VGsw0K29F4c/0.jpg))](https://www.youtube.com/watch?v=VGsw0K29F4c)
+  > There is a finite game in infinite game
