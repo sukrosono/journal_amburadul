@@ -129,27 +129,27 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 
   [![](https://img.youtube.com/vi/qu645wvzMwQ/0.jpg)](https://www.youtube.com/watch?v=qu645wvzMwQ)
 
-0.  Understanding Empathy
+0.  Understanding Empathy<br>
   [![](https://img.youtube.com/vi/pi86Nr9Mdms/0.jpg)](https://www.youtube.com/watch?v=pi86Nr9Mdms)
 
-0.  Love Your Work
+0.  Love Your Work<br>
   [![](https://img.youtube.com/vi/jDIZS4IQlQk/0.jpg)](https://www.youtube.com/watch?v=jDIZS4IQlQk)
 
-0.  5 Rules to Follow as You Find Your Spark
+0.  5 Rules to Follow as You Find Your Spark<br>
   [![](https://img.youtube.com/vi/8l-YpiiBH4o/0.jpg)](https://www.youtube.com/watch?v=8l-YpiiBH4o)
 
-0.  How to Achieve Your Most Ambitious Goals by Stephen Duneier
+0.  How to Achieve Your Most Ambitious Goals by Stephen Duneier<br>
   [![](https://img.youtube.com/vi/TQMbvJNRpLE/0.jpg))](https://www.youtube.com/watch?v=TQMbvJNRpLE)
   > Marginal improvement
 
-0.  Motivate yourself with visions, goals and willpower by Hugo Kehr
+0.  Motivate yourself with visions, goals and willpower by Hugo Kehr<br>
   [![](https://img.youtube.com/vi/iuIisjRIcVI/0.jpg))](https://www.youtube.com/watch?v=iuIisjRIcVI)
   > Heart, head, and hand. 3 component for motivation
 
-0.  Art of Focus
+0.  Art of Focus<br>
   [![](https://img.youtube.com/vi/xF80HzqvAoA/0.jpg))](https://www.youtube.com/watch?v=xF80HzqvAoA)
   > ..
 
-0.  Life is infinite game by Simon Sinek
+0.  Life is infinite game by Simon Sinek<br>
   [![](https://img.youtube.com/vi/VGsw0K29F4c/0.jpg))](https://www.youtube.com/watch?v=VGsw0K29F4c)
   > There is a finite game in infinite game
