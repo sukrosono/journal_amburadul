@@ -153,3 +153,7 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
 0.  Life is infinite game by Simon Sinek<br>
   [![](https://img.youtube.com/vi/VGsw0K29F4c/0.jpg))](https://www.youtube.com/watch?v=VGsw0K29F4c)
   > There is a finite game in infinite game
+
+0.  Why you feel what you feel by Alan Watkins<br>
+  [![](https://img.youtube.com/vi/h-rRgpPbR5w/0.jpg))](https://www.youtube.com/watch?v=h-rRgpPbR5w)
+  > Control your emotion
