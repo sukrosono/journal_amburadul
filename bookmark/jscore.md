@@ -16,7 +16,7 @@ Initial text
   0. [CORS MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
   0. [Don't recklessly polyfill](http://stackoverflow.com/questions/5072136/javascript-filter-for-objects)
   0. [When i should use arrow function](http://stackoverflow.com/questions/22939130/when-should-i-use-arrow-functions-in-ecmascript-6 "SO question")
-  
+
 ### Tools
   0. [ESlint](http://eslint.org "eslint website")
 
@@ -24,3 +24,18 @@ Initial text
 ### List
   0. [Js stack from scratch](https://github.com/verekia/js-stack-from-scratch)
   > what i like is from **scratch**
+
+
+
+### Video
+1.  [![](https://img.youtube.com/vi/e-5obm1G_FY/0.jpg)](https://www.youtube.com/watch?v=e-5obm1G_FY) <br>
+
+	>  functional programming is paradigm  
+	>  avoid mutation, if you typo change the declaration or initialization. But when your program flow require these change still avoid mutation, keep it immutable with map reduce filter etc.
+
+1.  [![](https://img.youtube.com/vi/Xt5qpbiqw2g/0.jpg)](https://www.youtube.com/watch?v=Xt5qpbiqw2g)<br>
+	>  Don't say x better than y
+	>  Real Developer should resourceful, accepting and creative.
+
+1.  [![](https://img.youtube.com/vi/v0TFmdO4ZP0/0.jpg)](https://www.youtube.com/watch?v=v0TFmdO4ZP0)<br>
+	>  Don't rely too much on references, when you rely on your knowledge and writing more you are force to internalize more then hopefully you accomplish more.
