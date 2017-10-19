@@ -7,7 +7,7 @@ Initial text
 
 ### Table of Contents
 ---
-  0. [javascript style guide](https://github.com/airbnb/javascript "Airbnb style guide")
+  1. [javascript style guide](https://github.com/airbnb/javascript "Airbnb style guide")
   0. [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments "github wiki")
   0. [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js "idiomatic.js repo")
   0. [What is the DOM?](https://css-tricks.com/dom/ "css-tricks atricle")
@@ -18,11 +18,11 @@ Initial text
   0. [When i should use arrow function](http://stackoverflow.com/questions/22939130/when-should-i-use-arrow-functions-in-ecmascript-6 "SO question")
 
 ### Tools
-  0. [ESlint](http://eslint.org "eslint website")
+  1. [ESlint](http://eslint.org "eslint website")
 
 
 ### List
-  0. [Js stack from scratch](https://github.com/verekia/js-stack-from-scratch)
+  1. [Js stack from scratch](https://github.com/verekia/js-stack-from-scratch)
   > what i like is from **scratch**
 
 
@@ -39,3 +39,8 @@ Initial text
 
 1.  [![](https://img.youtube.com/vi/v0TFmdO4ZP0/0.jpg)](https://www.youtube.com/watch?v=v0TFmdO4ZP0)<br>
 	>  Don't rely too much on references, when you rely on your knowledge and writing more you are force to internalize more then hopefully you accomplish more.
+
+1.  JS call stack
+
+	[![](https://img.youtube.com/vi/6MXRNXXgP_0/0.jpg)](https://www.youtube.com/watch?v=6MXRNXXgP_0)<br>
+	>  Nice explanation on javascript call stack
