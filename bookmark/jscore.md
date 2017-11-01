@@ -44,3 +44,7 @@ Initial text
 
 	[![](https://img.youtube.com/vi/6MXRNXXgP_0/0.jpg)](https://www.youtube.com/watch?v=6MXRNXXgP_0)<br>
 	>  Nice explanation on javascript call stack
+
+1.  Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)
+  [![](https://img.youtube.com/vi/7-XnEMrQnn4/0.jpg)](https://www.youtube.com/watch?v=7-XnEMrQnn4)<br>
+    >Too many, re-watch if you want
