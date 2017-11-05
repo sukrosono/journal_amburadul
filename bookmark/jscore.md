@@ -48,3 +48,12 @@ Initial text
 1.  Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)
   [![](https://img.youtube.com/vi/7-XnEMrQnn4/0.jpg)](https://www.youtube.com/watch?v=7-XnEMrQnn4)<br>
     >Too many, re-watch if you want
+
+1. How to make money as a freelance developer<br>
+  [![](https://img.youtube.com/vi/fsTzLgra5dQ/0.jpg)](video6)
+  > Freelancer require: a. self motivation and self discipline b. structure
+  > website (mobile friendly) there is lack of buyer and seller. So be **problem solver**, identify the problem then propose the solutions. That's the bridge.<br>
+  Initial meeting, proposal (have entire scope of work and mention how it solve the problem), close (mention features details, explaining why the proposal close the problem).
+  > Where? 1. Network (talk to non developer, [online](https://www.bni.com/))2. Third party (thumbtack.com, Fiverr.com) 3. Your own Website
+
+[video6]: https://www.youtube.com/watch?v=fsTzLgra5dQ
