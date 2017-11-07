@@ -154,6 +154,17 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
   [![](https://img.youtube.com/vi/VGsw0K29F4c/0.jpg))](https://www.youtube.com/watch?v=VGsw0K29F4c)
   > There is a finite game in infinite game
 
-0.  Why you feel what you feel by Alan Watkins<br>
+0. Why you feel what you feel by Alan Watkins<br>
   [![](https://img.youtube.com/vi/h-rRgpPbR5w/0.jpg))](https://www.youtube.com/watch?v=h-rRgpPbR5w)
   > Control your emotion
+
+0. Why leaders eat last<br>
+  [![](https://img.youtube.com/vi/ReRcHdeUG9Y/0.jpg))](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
+   > EDSO, Individual chemical: Endorphine-> mass physical pain, Dophamine-> getting stuff done, also when you eat.
+   Vision should be tangible, so could motivate *and trigger dophamine realease?*. Dophamine is **highly addictive**, commonly trigger by
+   alchohol, nicotine, gamble and cellphone.
+
+   > SO (social chemical?). Seritonin, leadership chemical.
+   Oxytoxin -> act of generousity, who act and who receive it got axitoxin
+
+   > Cortisole @TODO remove typo
