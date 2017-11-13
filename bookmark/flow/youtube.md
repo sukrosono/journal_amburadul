@@ -1,19 +1,5 @@
-### Content
+## List
   what should I name it?
-
-0. Self motivated<br>
-  > It's have 3 key, somehow I forget it
-
-    [![](https://img.youtube.com/vi/7sxpKhIbr0E/0.jpg)](https://www.youtube.com/watch?v=7sxpKhIbr0E)
-0. Redesign your own education<br>
-    [![](https://img.youtube.com/vi/TUnpSYMNEhY/0.jpg)](https://www.youtube.com/watch?v=TUnpSYMNEhY)
-0. explain POD, but I forgot what it stand for<br>
-  >
-    Play<br>
-    Other<br>
-    Downtime -> relax, relieve your balance, rethinking about it
-
-    [![](https://img.youtube.com/vi/1EHZAQmw2JA/0.jpg)](https://www.youtube.com/watch?v=1EHZAQmw2JA)<br>
 
 0. Rethinking how you learn<br>
   [![](https://img.youtube.com/vi/Na8m4GPqA30/0.jpg)](https://www.youtube.com/watch?v=Na8m4GPqA30)<br>
@@ -168,3 +154,8 @@ https://www.youtube.com/watch?v=Y8u42OjH0ss &spfreload=5
    Oxytoxin -> act of generousity, who act and who receive it got axitoxin
 
    > Cortisole @TODO remove typo
+
+0. Essentialsim | Talks at google<br>
+  [![](https://img.youtube.com/vi/sQKrt1-IDaEsQKrt1-IDaE/0.jpg))](https://www.youtube.com/watch?v=sQKrt1-IDaE)
+   > Pursuit of doing less, but better.
+   How the intelligent get trick by trivial?. Clarity(remove any clutter). Write a journal lowing your distraction and gaining more focus on you.
