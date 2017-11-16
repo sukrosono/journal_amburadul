@@ -2,7 +2,7 @@
   what should I name it?
 
 
-1. Tony robbin- alkaline
+1. Tony robbin- alkaline<br>
 [![](https://img.youtube.com/vi/wTROvy5442k/0.jpg)](https://www.youtube.com/watch?v=wTROvy5442k)
 
 1. Alkaline diet<br>
@@ -37,6 +37,6 @@
    > Pursuit of doing less, but better.
    How the intelligent get trick by trivial?. Clarity(remove any clutter). Write a journal lowing your distraction and gaining more focus on you.
 
-0. Top 10 Rules by Jordan B. Peterson
+0. Top 10 Rules by Jordan B. Peterson<br>
   [![](https://img.youtube.com/vi/6jN1ckK2YBA/0.jpg))](https://www.youtube.com/watch?v=6jN1ckK2YBA)
    > 10 key, rewatch and summarize + relate to your own life

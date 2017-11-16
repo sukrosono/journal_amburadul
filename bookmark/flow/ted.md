@@ -26,40 +26,39 @@
 0. Rethink your gadget, it's just a tools.<br>
    [![](https://img.youtube.com/vi/Pgo65s1R6TM/0.jpg)](https://www.youtube.com/watch?v=Pgo65s1R6TM)<br>
 
-0. Rejected?
+0. Rejected?<br>
+[![](https://img.youtube.com/vi/dsT5eV_m7BA/0.jpg)](https://www.youtube.com/watch?v=dsT5eV_m7BA)<br>
    > It's worth rethinking what it lead you
 
-     [![](https://img.youtube.com/vi/dsT5eV_m7BA/0.jpg)](https://www.youtube.com/watch?v=dsT5eV_m7BA)<br>
-
-0. Rethinking your career, you **100% responsible** for it
+0. Rethinking your career, you **100% responsible** for it<br>
    [![](https://img.youtube.com/vi/a7gFkUqIv1E/0.jpg)](https://www.youtube.com/watch?v=a7gFkUqIv1E)<br>
    > seek the truth
 
    [![](https://img.youtube.com/vi/NVPxmz_PvUw/0.jpg)](https://www.youtube.com/watch?v=NVPxmz_PvUw)<br>
-0. Only in case you feel lost about your career
+0. Only in case you feel lost about your career<br>
   [![](https://img.youtube.com/vi/6MBaFL7sCb8/0.jpg)](https://www.youtube.com/watch?v=6MBaFL7sCb8)<br>
-0. Weird nor Misfits
+0. Weird nor Misfits<br>
      [![](https://img.youtube.com/vi/WzGkqG9BtYA/0.jpg)](https://www.youtube.com/watch?v=WzGkqG9BtYA)<br>
-0. Cloud Computing?
+0. Cloud Computing?<br>
   [![](https://img.youtube.com/vi/299P2Pgvjjk/0.jpg)](https://www.youtube.com/watch?v=299P2Pgvjjk)
    > It's still another solution instead paid one, content mislead :p
 
-0. Why sex matter?
+0. Why sex matter?<br>
  [![](https://img.youtube.com/vi/nQcgD5DpVlQ/0.jpg)](https://www.youtube.com/watch?v=nQcgD5DpVlQ)<br>
-0. It's Love or Lust? Or both?
+0. It's Love or Lust? Or both?<br>
  [![](https://img.youtube.com/vi/Siru3n3zIbM/0.jpg)](https://www.youtube.com/watch?v=Siru3n3zIbM)<br>
-0. I forgot the content of this one
+0. I forgot the content of this one<br>
  [![](https://img.youtube.com/vi/R3FKQNSYoxw/0.jpg)](https://www.youtube.com/watch?v=R3FKQNSYoxw)<br>
 0. The Minimalis<br>
    [![](https://img.youtube.com/vi/GgBpyNsS-jU/0.jpg)](https://www.youtube.com/watch?v=GgBpyNsS-jU)<br>
-0. Suicide is everyone business
+0. Suicide is everyone business<br>
    - [![](https://img.youtube.com/vi/XxJCRAv8X4I/0.jpg)](https://www.youtube.com/watch?v=XxJCRAv8X4I)<br>
    - [![](https://img.youtube.com/vi/FQhBQXlL1yg/0.jpg)](https://www.youtube.com/watch?v=FQhBQXlL1yg)<br>
    - [![](https://img.youtube.com/vi/sorMd2ZHWM8/0.jpg)](https://www.youtube.com/watch?v=GgBpyNsS-jU)<br>
-0. Learning is full time job, think it's impact
+0. Learning is full time job, think it's impact<br>
    [![](https://img.youtube.com/vi/7bB_fVDlvhc/0.jpg)](https://www.youtube.com/watch?v=7bB_fVDlvhc)<br>
 
-0. Head up, social zone known as "Free judge zone"
+0. Head up, social zone known as "Free judge zone"<br>
    [![](https://img.youtube.com/vi/QuaIMgzIOn8/0.jpg)](https://www.youtube.com/watch?v=QuaIMgzIOn8)<br>
 0. Connected?<br>
 [![](https://img.youtube.com/vi/D4cV8yfgNyI/0.jpg)](https://www.youtube.com/watch?v=D4cV8yfgNyI)<br>
@@ -87,9 +86,9 @@
 [![](https://img.youtube.com/vi/PY9DcIMGxMs/0.jpg)](https://www.youtube.com/watch?v=PY9DcIMGxMs)
    > The opposite of addiction is connection
 
-0. Do we see reality as it is?
+0. Do we see reality as it is?<br>
 [![](https://img.youtube.com/vi/oYp5XuGYqqY/0.jpg)](https://www.youtube.com/watch?v=oYp5XuGYqqY)
-0. what you don't know about marriage
+0. what you don't know about marriage<br>
 [![](https://img.youtube.com/vi/Y8u42OjH0ss/0.jpg)](https://www.youtube.com/watch?v=Y8u42OjH0ss)
 
 0. Unexpected benefit from celebrationg failure<br>
@@ -105,7 +104,7 @@
 [![](https://img.youtube.com/vi/_y7ZgcsvMTo/0.jpg)](https://www.youtube.com/watch?v=_y7ZgcsvMTo)
     > real life friends against online friends
 
-0. The surprising beauty of mathematics
+0. The surprising beauty of mathematics<br>
  [![](https://img.youtube.com/vi/SEiSloE1r-A/0.jpg)](https://www.youtube.com/watch?v=SEiSloE1r-A)
     > You are mathematically sexy
 
@@ -125,6 +124,6 @@
 [![](https://img.youtube.com/vi/h-rRgpPbR5w/0.jpg))](https://www.youtube.com/watch?v=h-rRgpPbR5w)
    > Control your emotion
 
-0. The Discipline of Finishing
+0. The Discipline of Finishing<br>
 [![](https://img.youtube.com/vi/zXCiv4sc5eY/0.jpg)](https://www.youtube.com/watch?v=zXCiv4sc5eY)<br>
    > Warren Buffett will use 3 criteria to invest on people, 1 integrity 2 energy 3 intelligent. Invest on yourself and bet on yourself!
