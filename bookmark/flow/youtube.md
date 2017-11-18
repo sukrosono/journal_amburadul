@@ -40,3 +40,11 @@
 0. Top 10 Rules by Jordan B. Peterson<br>
   [![](https://img.youtube.com/vi/6jN1ckK2YBA/0.jpg))](https://www.youtube.com/watch?v=6jN1ckK2YBA)
    > 10 key, rewatch and summarize + relate to your own life
+
+0. Exploring the Psychology of Creativity
+[![](https://img.youtube.com/vi/KxGPe1jD-qY/0.jpg))](https://www.youtube.com/watch?v=KxGPe1jD-qY)
+   > Zebra?
+
+0. Q&A with Bret Weinstein, Jordan Peterson and Jonathan Pageau | SFL Regional Conference, Vancouver
+[![](https://img.youtube.com/vi/0cLLFSdKZLI/0.jpg))](https://www.youtube.com/watch?v=0cLLFSdKZLI)
+   > Note: Error wakes people up to conscious level from auto pilot. You can direct people to his error by pointing a contradiction in their action or word.
