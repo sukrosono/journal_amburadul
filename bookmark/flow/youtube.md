@@ -48,3 +48,7 @@
 0. Q&A with Bret Weinstein, Jordan Peterson and Jonathan Pageau | SFL Regional Conference, Vancouver
 [![](https://img.youtube.com/vi/0cLLFSdKZLI/0.jpg))](https://www.youtube.com/watch?v=0cLLFSdKZLI)
    > Note: Error wakes people up to conscious level from auto pilot. You can direct people to his error by pointing a contradiction in their action or word.
+
+0. The big 5 personality traits by Dr. Jordan B Peterson<br>
+https://www.youtube.com/watch?v=pCceO_D4AlY
+   > not explained in details?
