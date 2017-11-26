@@ -127,3 +127,7 @@
 0. The Discipline of Finishing<br>
 [![](https://img.youtube.com/vi/zXCiv4sc5eY/0.jpg)](https://www.youtube.com/watch?v=zXCiv4sc5eY)<br>
    > Warren Buffett will use 3 criteria to invest on people, 1 integrity 2 energy 3 intelligent. Invest on yourself and bet on yourself!
+
+0. Lessons from the longest study on human development | Helen Pearson<br>
+[![](https://img.youtube.com/vi/8Dv2Hdf5TRg/0.jpg)](https://www.youtube.com/watch?v=8Dv2Hdf5TRg)<br>
+   > Parenting and proverty matter on child development, parenting > proverty. You should listen to the science and the child themself to be a good parent.
