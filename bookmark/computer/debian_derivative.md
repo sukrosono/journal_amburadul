@@ -1,5 +1,16 @@
 ## List
 
+## Program
+<details>
+  <summary>Program list</summary>
+
+1. Gimp.<br>
+   > add small desc, website, repo
+
+1. InkScape.<br>
+   > add small desc, website, repo
+
+</details>
 
 ### Common problem
 1. How do I [continue][common1] configuration if apt-get was interrupted?
