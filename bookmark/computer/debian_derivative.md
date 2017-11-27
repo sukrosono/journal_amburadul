@@ -5,13 +5,18 @@
   <summary>Program list</summary>
 
 1. Gimp.<br>
-   > add small desc, website, repo
+   > @TODO add small desc, website, repo
 
 1. InkScape.<br>
-   > add small desc, website, repo
+   > @TODO add small desc, website, repo
+
+1. Open Broadcaster Software studio.
+   > [repository][obs repo] [Ubuntu install instruction][ubuntu install obs]
 
 </details>
 
+[obs repo]: https://github.com/jp9000/obs-studio
+[ubuntu install obs]: https://github.com/jp9000/obs-studio/wiki/install-instructions#ubuntu-installation
 ### Common problem
 1. How do I [continue][common1] configuration if apt-get was interrupted?
 0. [Start][common2] a new process without blocking the terminal.
