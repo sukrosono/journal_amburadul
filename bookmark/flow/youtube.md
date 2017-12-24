@@ -51,8 +51,16 @@
 
 0. The big 5 personality traits by Dr. Jordan B Peterson<br>
 [![](https://img.youtube.com/vi/pCceO_D4AlY/0.jpg)](https://www.youtube.com/watch?v=pCceO_D4AlY)
-   > not explained in details? perhaps it's on his other video
+   > not explained in details? perhaps it's on his other video.
 
 0. Jordan Peterson - Read, Become Articulate, Transform the World
 [![](https://img.youtube.com/vi/tkc5Fl0E8uU/0.jpg)](https://www.youtube.com/watch?v=tkc5Fl0E8uU)
-   > People should watch this when they forgot why the enter university
+   > People should watch this when they forgot why the enter university.
+
+0. H3 Podcast #37 - Jordan Peterson
+[![](https://img.youtube.com/vi/vx4ltQhdlhg/0.jpg)](https://www.youtube.com/watch?v=vx4ltQhdlhg)
+   > Don't be arrogant facing opportunity, even the imperfect one. Advice from Jordan B Peterson.
+
+0. The right model of leadership | Simon Sinek | WOBI
+[![](https://img.youtube.com/vi/BsqUUuY621g/0.jpg)](https://www.youtube.com/watch?v=BsqUUuY621g)
+   > intentionally leave blank

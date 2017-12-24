@@ -106,23 +106,23 @@
 
 0. The surprising beauty of mathematics<br>
  [![](https://img.youtube.com/vi/SEiSloE1r-A/0.jpg)](https://www.youtube.com/watch?v=SEiSloE1r-A)
-    > You are mathematically sexy
+    > You are mathematically sexy.
 
 0. How to Achieve Your Most Ambitious Goals by Stephen Duneier<br>
   [![](https://img.youtube.com/vi/TQMbvJNRpLE/0.jpg))](https://www.youtube.com/watch?v=TQMbvJNRpLE)
-   > Marginal improvement
+   > Marginal improvement!
 
 0. Motivate yourself with visions, goals and willpower by Hugo Kehr<br>
  [![](https://img.youtube.com/vi/iuIisjRIcVI/0.jpg))](https://www.youtube.com/watch?v=iuIisjRIcVI)
-   > Heart, head, and hand. 3 component for motivation
+   > Heart, head, and hand. 3 component for motivation.
 
 0. Art of Focus<br>
   [![](https://img.youtube.com/vi/xF80HzqvAoA/0.jpg))](https://www.youtube.com/watch?v=xF80HzqvAoA)
-   > summarize damn asshole
+   > summarize damn asshole!
 
 0. Why you feel what you feel by Alan Watkins<br>
 [![](https://img.youtube.com/vi/h-rRgpPbR5w/0.jpg))](https://www.youtube.com/watch?v=h-rRgpPbR5w)
-   > Control your emotion
+   > Control your emotion!
 
 0. The Discipline of Finishing<br>
 [![](https://img.youtube.com/vi/zXCiv4sc5eY/0.jpg)](https://www.youtube.com/watch?v=zXCiv4sc5eY)<br>
@@ -131,3 +131,7 @@
 0. Lessons from the longest study on human development | Helen Pearson<br>
 [![](https://img.youtube.com/vi/8Dv2Hdf5TRg/0.jpg)](https://www.youtube.com/watch?v=8Dv2Hdf5TRg)<br>
    > Parenting and proverty matter on child development, parenting > proverty. You should listen to the science and the child themself to be a good parent.
+
+0. The power of believing that you can improve | Carol Dweck<br>
+[![](https://img.youtube.com/vi/_X0mgOOSpLU/0.jpg)](https://www.youtube.com/watch?v=_X0mgOOSpLU)<br>
+   > *you watch this using your friend's laptop.*
