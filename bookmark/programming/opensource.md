@@ -4,8 +4,7 @@
 [![](https://img.youtube.com/vi/Ag1AKIl_2GM/0.jpg)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
    > Free software does mean without a cost, but i am ready to pay the cost happily :wink:
 
-https://www.youtube.com/watch?v=Ag1AKIl_2GM
-1. Richard Stallman Talks About Ubuntu<br>
+0. Richard Stallman Talks About Ubuntu<br>
 [![](https://img.youtube.com/vi/CP8CNp-vksc/0.jpg)](https://www.youtube.com/watch?v=CP8CNp-vksc)
 
 0. Linus Torvalds, Linux and GNU/Linux<br>
@@ -19,9 +18,9 @@ https://www.youtube.com/watch?v=Ag1AKIl_2GM
 ---
 1. [Open source maintainer guidelines](https://18f.github.io/open-source-program/pages/maintainer_guidelines/)
 
-1. tips
-  * [oss tips][tips]
-  * [oss tips][tips1]
+0. tips
+   * [oss tips][tips]
+   * [oss tips][tips1]
 0. [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
 
 0. [Checklist for the Benevolent Open Source Maintainer](http://srawlins.ruhoh.com/checklist-for-the-benevolent-open-source-maintainer/)
