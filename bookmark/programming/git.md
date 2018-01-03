@@ -66,6 +66,7 @@
 
    1. [Git rebase interactive the last n commits][commmon10]
    1. [Revert multiple git commits][common11]
+   1. [Change commit author at one specific commit][common12]
 
     </details>
 
@@ -81,6 +82,7 @@
 [joenashProfile]: https://github.com/joenash
 [commmon10]: https://stackoverflow.com/questions/41464752/git-rebase-interactive-the-last-n-commits
 [common11]: https://stackoverflow.com/questions/1463340/revert-multiple-git-commits
+[common12]: https://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit
 
 6. Config
 	 1. Core Editor, on [github help](config1)

@@ -13,4 +13,14 @@ check percentage of android version via developer.android.com/about/dashboards
 
 ### Testing
 
-0.  [Android app test automation](https://www.testlab4apps.com/5-open-source-tools-for-android-app-test-automation/)
+1. [Android app test automation](https://www.testlab4apps.com/5-open-source-tools-for-android-app-test-automation/)
+
+
+### Use on mint or ubuntu
+
+1. [Installing Google Play Android App][use] -> [Running Android Apps on Linux][use1] = [archon][repository]
+   > on install phase
+
+[use]: https://forums.linuxmint.com/viewtopic.php?t=239987
+[use1]: https://www.maketecheasier.com/running-android-apps-on-linux/
+[repository]: https://github.com/vladikoff/chromeos-apk/blob/master/archon.md
