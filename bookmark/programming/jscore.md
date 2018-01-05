@@ -60,3 +60,38 @@ Initial text
 
 [video6]: https://www.youtube.com/watch?v=fsTzLgra5dQ
 [article10]: https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7 "a series"
+
+
+### To read articles
+
+1. [How JavaScript variable scoping is just like multiple levels of government][tr]
+1. [Advice From A 19 Year Old Girl & Software Developer][tr1]
+1. [How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it over JavaScript][tr2]
+1. [Your code stinks. Here’s what you can do about it.][tr3]
+1. [Everything You Should Know About React: The Basics You Need to Start Building][tr4]
+1. [Hard Coding Concepts Explained with Simple Real-life Analogies][tr5]
+1. [A Fascinating And Messy History of the Web and JavaScript, Explained with Video][tr6]
+1. [Software 2.0][tr7]
+1. [How I built and deployed PaperCSS — and got 125+ stars on Github the first week][tr8]
+1. [Why I’m leaving Silicon Valley][tr9]
+1. [Why Amazon, Facebook and Google can all be beaten.][tr10]
+
+
+[tr]: https://medium.freecodecamp.org/how-javascript-variable-scoping-is-just-like-multiple-levels-of-government-d7ddabc49bf1
+[tr1]: https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5
+[tr2]: https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79
+[tr3]: https://medium.freecodecamp.org/your-code-stinks-heres-what-you-can-do-about-it-3f9650653447
+[tr4]: https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4
+[tr6]: https://medium.freecodecamp.org/a-fascinating-and-messy-history-of-the-web-and-javascript-video-8978dc7bda75
+[tr7]: https://medium.com/@karpathy/software-2-0-a64152b37c35
+[tr8]: https://medium.freecodecamp.org/how-i-built-and-deployed-papercss-and-got-125-stars-on-github-the-first-week-89f8d6ac14b1
+[tr9]: https://medium.com/@preethikasireddy/why-im-leaving-silicon-valley-72919edb3297
+[tr10]: https://medium.com/lightspeed-venture-partners/why-amazon-facebook-and-google-can-all-be-beaten-f2b3ee48feaf
+
+
+### To watch
+
+1. The Reusable JavaScript Revolution - talk by Cory House[tw]
+
+
+[tw]: https://www.youtube.com/watch?v=LNClb7HEqeI
