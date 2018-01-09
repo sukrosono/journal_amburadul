@@ -43,6 +43,15 @@
 
 [branch1]: https://www.git-tower.com/learn/git/faq/delete-remote-branch
 
+5. Stash
+   - [Using the Stash Command][stash1]
+     > Stash is a carrier of changes from branch to branch
+     > stash work like *array*, it have `list` , `pop`, and `apply`.
+     > by convention pop will drop last item from stash list, but it have `drop` too.
+
+
+[stash1]: https://www.youtube.com/watch?v=KLEDKgMmbBI
+
 5. Common
    <details><summary>common content</summary>
 

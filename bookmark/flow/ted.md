@@ -135,3 +135,10 @@
 0. The power of believing that you can improve | Carol Dweck<br>
 [![](https://img.youtube.com/vi/_X0mgOOSpLU/0.jpg)](https://www.youtube.com/watch?v=_X0mgOOSpLU)<br>
    > *you watch this using your friend's laptop.*
+
+0. The brain benefits of deep sleep -- and how to get more of it | Dan Gartenberg<br>
+[![](https://img.youtube.com/vi/1U2qMRGihGg/0.jpg)](https://www.youtube.com/watch?v=1U2qMRGihGg)<br>
+   > show the sounds that stimulate / maintain deep sleep, it's like delta wave that i heard to improve my sleep.
+
+1. How the food you eat affects your brain - Mia Nacamulli<br>
+[![](https://img.youtube.com/vi/xyQY8a-ng6g/0.jpg)](https://www.youtube.com/watch?v=xyQY8a-ng6g)<br>
