@@ -20,3 +20,5 @@
 0.  [FrontEnd Testing Plan](https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/)
 
 0.  [Javascript automation framework](https://www.joecolantonio.com/2016/06/14/top-8-essential-javascript-automation-frameworks/)
+
+0.  [UI testing with puppeteer and mocha](https://medium.com/@ankit_m/ui-testing-with-puppeteer-and-mocha-part-1-getting-started-b141b2f9e21)

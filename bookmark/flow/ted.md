@@ -142,3 +142,15 @@
 
 1. How the food you eat affects your brain - Mia Nacamulli<br>
 [![](https://img.youtube.com/vi/xyQY8a-ng6g/0.jpg)](https://www.youtube.com/watch?v=xyQY8a-ng6g)<br>
+
+1. How to fix a broken heart | Guy Winch<br>
+[![](https://img.youtube.com/vi/k0GQSJrpVhM/0.jpg)](https://www.youtube.com/watch?v=k0GQSJrpVhM)<br>
+
+1. The Simple Cure for Loneliness | Baya Voce | TEDxSaltLakeCity<br>
+[![](https://img.youtube.com/vi/KSXh1YfNyVA/0.jpg)](https://www.youtube.com/watch?v=KSXh1YfNyVA)<br>
+
+1. The Skill of Humor | Andrew Tarvin | TEDxTAMU<br>
+[![](https://img.youtube.com/vi/MdZAMSyn_As/0.jpg)](https://www.youtube.com/watch?v=MdZAMSyn_As)<br>
+  > - builds trust
+  - improves understanding
+  - aids in learning

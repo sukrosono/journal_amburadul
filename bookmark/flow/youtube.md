@@ -64,3 +64,7 @@
 0. The right model of leadership | Simon Sinek | WOBI
 [![](https://img.youtube.com/vi/BsqUUuY621g/0.jpg)](https://www.youtube.com/watch?v=BsqUUuY621g)
    > intentionally leave blank
+
+0. Jordan Peterson vs Susan Blackmore • Do we need God to make sense of life?
+[![](https://img.youtube.com/vi/syP-OtdCIho/0.jpg)](https://www.youtube.com/watch?v=syP-OtdCIho)
+   > intentionally leave blank
