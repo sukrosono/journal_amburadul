@@ -5,3 +5,7 @@ I don't know for sure where this lead, I just thought it maybe useful for someon
 
 # Contents
 1. [Go here](https://github.com/brutalcrozt/TR_KBP/tree/master/bookmark "bookmark folder")
+
+## To do
+- restructure (to be better and understandable)
+- clean up
