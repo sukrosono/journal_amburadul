@@ -13,6 +13,10 @@
 1. Open Broadcaster Software studio.
    > [repository][obs repo] [Ubuntu install instruction][ubuntu install obs]
 
+1. [DIA][dia website]<br>
+   > DIA is a shorten form of Diagram, A Software Design Tools which available on major OS.
+   As alternative on linux we had [argouml][argouml]
+
 1. [9 Best Free Video Editing Software for Linux In 2018][prog3]
 
 1. [Top 3 Linux Video Editors][prog4]
@@ -26,6 +30,8 @@
 [prog3]: https://itsfoss.com/best-video-editing-software-linux/
 [prog4]: https://www.linux.com/news/top-3-linux-video-editors
 [prog5]: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+[dia website]: http://live.gnome.org/Dia
+[argouml]: http://argouml.tigris.org/
 
 ### Common problem
 1. How do I [continue][common1] configuration if apt-get was interrupted?
