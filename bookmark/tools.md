@@ -58,3 +58,9 @@
 [concept compression3]: http://www.peazip.org/what-is-solid-compression.html
 [compression comparison]: https://itsfoss.com/tar-vs-zip-vs-gz/
 [uncss]: https://github.com/uncss/uncss
+
+1. Misc.
+ - [Tools for documentation][tools-doc].
+  > try documentationjs over whiteboard
+
+[tools-doc]: https://github.com/unicodeveloper/awesome-documentation-tools
