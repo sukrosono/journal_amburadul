@@ -5,11 +5,17 @@
     2. [Auto complete provider list](atom2)
     2. [Hyperclick](atom3)
     2. [Emmet cheat sheet](atom4)
+    1. [api-docs][api-docs]
+     > data provided by devdocs.io
+
+    1. [docs-snippets][docs-snippets]
 
 [atom1]: https://www.sitepoint.com/10-essential-atom-add-ons/
 [atom2]: https://github.com/atom/autocomplete-plus/wiki/Autocomplete-Providers
 [atom3]: https://atom.io/packages/hyperclick
 [atom4]: https://docs.emmet.io/cheat-sheet/
+[api-docs]: https://atom.io/packages/api-docs
+[docs-snippets]: https://atom.io/packages/docs-snippets
 
 1. GIF
     1. [makeagif](http://makeagif.com/video-to-gif) support url

@@ -33,6 +33,17 @@
 [dia website]: http://live.gnome.org/Dia
 [argouml]: http://argouml.tigris.org/
 
+## Cli tools
+<details><summary>useful cli tools</summary>
+
+1. [tree][tree website].<br>
+   > apt-get install tree
+
+</details>
+
+[tree website]: http://mama.indstate.edu/users/ice/tree/
+
+
 ### Common problem
 1. How do I [continue][common1] configuration if apt-get was interrupted?
 0. [Start][common2] a new process without blocking the terminal.
