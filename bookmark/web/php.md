@@ -11,7 +11,7 @@
 
   2.  [pdftk](https://www.pdflabs.com/)
       3. [pdftk server(cli)](https://www.pdflabs.com/tools/pdftk-server/)
-      
+
   2.  [tcpdf](https://tcpdf.org/)
 
   2.  Filling pdf form with dfd or xdfd, i unable to use pdftk-php. but it able use the
@@ -23,3 +23,8 @@
   > when article is invalid you can take a look on this [gist](https://gist.github.com/outman/3760142)
 
 1.  [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
+
+1. Wordpress [wp]
+  1. [wp internationalization][wp-i18n]
+
+[wp-i18n]: https://i18n.svn.wordpress.org/
