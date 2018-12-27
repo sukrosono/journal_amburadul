@@ -24,7 +24,13 @@
 
 1.  [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 
-1. Wordpress [wp]
+1. [Wordpress][wp]
   1. [wp internationalization][wp-i18n]
+  1. use [single-wp-core-lib][single-wp]
+  1. [change language on wp][wp-lang]
+    > using constant WPLANG still work on wp 5
 
+[wp]: https://codex.wordpress.org/
 [wp-i18n]: https://i18n.svn.wordpress.org/
+[single-wp]: https://wordpress.stackexchange.com/questions/57109/how-to-share-wordpress-core-library
+[wp-lang]: https://codex.wordpress.org/Installing_WordPress_in_Your_Language#WordPress_v4.0_and_above
