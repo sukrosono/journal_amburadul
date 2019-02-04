@@ -49,6 +49,14 @@
        -  use `tee` only [download binary here](https://code.google.com/archive/p/wintee/downloads)
        -  use `tee` and more, download [unxutils](https://stackoverflow.com/a/796492/2368696)
 
+1. Page builder
+  > to increase development speed
+  - [elementor][wp-elementor]
+  - [snapixa][snapixa]
+
+[snapixa]: http://snapixa.co/
+[wp-elementor]: https://wordpress.org/plugins/elementor
+
 1. Compression.
    1. How does 'dictionary size' [affect][concept compression] compression?
    1. How does 'Word Size' [affect][concept compression1] compression?

@@ -69,6 +69,8 @@
     1. clone specific branch
       > git clone -b [branch] [remote_repo]
 
+    1. Use git as to [deploy][git-auto-deploy] your code on vps. alternatively when you store [repo DO][auto-deploy-do]
+
     1. git log
       > the log of commits, starting from HEAD, and traversing through each connected commit. It’ll start from HEAD and go to the next commit in the chain, then the commit attached to that, etc.  by [joenash][joenashProfile]
 
@@ -80,6 +82,7 @@
     1. [Change commit author at one specific commit][common12]
 
   </details>
+
 
 [common1]: http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo "stackoverflow questions"
 [common2]: http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-pull-and-git-fetch "stackoverflow question"
@@ -94,6 +97,8 @@
 [commmon10]: https://stackoverflow.com/questions/41464752/git-rebase-interactive-the-last-n-commits
 [common11]: https://stackoverflow.com/questions/1463340/revert-multiple-git-commits
 [common12]: https://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit
+[auto-deploy-do]: https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+[git-auto-deploy]: https://medium.com/@francoisromain/vps-deploy-with-git-fea605f1303b
 
 6. Config
   1. Core Editor, on [github help](config1)
