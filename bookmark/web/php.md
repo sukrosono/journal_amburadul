@@ -25,12 +25,25 @@
 1.  [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 
 1. [Wordpress][wp]
+  1. [WordPress cli][cp-cli-handbook]
   1. [wp internationalization][wp-i18n]
   1. use [single-wp-core-lib][single-wp]
   1. [change language on wp][wp-lang]
     > using constant WPLANG still work on wp 5
 
+  1. [wp theme and plugin][wp-thm-pl]
+
+1. Wordpress theme
+  1. [WP Bootstrap 4][wp-b-4]
+  1. [understrap][understrap]
+  1. [List free wp theme 2019][wp-theme-19]
+
 [wp]: https://codex.wordpress.org/
 [wp-i18n]: https://i18n.svn.wordpress.org/
 [single-wp]: https://wordpress.stackexchange.com/questions/57109/how-to-share-wordpress-core-library
 [wp-lang]: https://codex.wordpress.org/Installing_WordPress_in_Your_Language#WordPress_v4.0_and_above
+[wp-b-4]: https://wordpress.org/themes/wp-bootstrap-4/
+[understrap]: https://github.com/understrap/understrap
+[wp-theme-19]: https://athemes.com/collections/free-wordpress-themes
+[wp-thm-pl]: https://wpackagist.org/
+[wp-cli-handbook]: https://make.wordpress.org/cli/handbook/
