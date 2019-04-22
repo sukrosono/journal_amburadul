@@ -33,6 +33,9 @@
 
   1. [wp theme and plugin][wp-thm-pl]
 
+1. WordPress plugin development
+  1. [Creating a table in the admin-style][wp-stack-1]
+
 1. Wordpress theme
   1. [WP Bootstrap 4][wp-b-4]
   1. [understrap][understrap]
@@ -47,3 +50,6 @@
 [wp-theme-19]: https://athemes.com/collections/free-wordpress-themes
 [wp-thm-pl]: https://wpackagist.org/
 [wp-cli-handbook]: https://make.wordpress.org/cli/handbook/
+
+
+[wp-stack-1]: https://wordpress.stackexchange.com/questions/1413/creating-a-table-in-the-admin-style

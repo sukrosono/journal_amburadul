@@ -1,5 +1,8 @@
-### Tools
+# General Tools
 
+<!-- ## Programming related tools
+  also make sure this file have header proper classification
+ -->
 1. Atom
     1. [Essential tools for atom](atom1)
     2. [Auto complete provider list](atom2)
@@ -78,3 +81,14 @@
   > try documentationjs over whiteboard
 
 [tools-doc]: https://github.com/unicodeveloper/awesome-documentation-tools
+
+## Network related tools
+1. [Soft Ether linux instalation][tutorial-on-medium]
+> no gui, only cli?
+ yet still not able get the usable list
+
+1. [pritunl][pritunl-github]
+> not yet tried
+
+[tutorial-on-medium]: https://medium.com/@anuradha.15/installation-guide-of-softether-vpn-client-on-linux-54a405a0ae2c
+[pritunl-github]: https://github.com/pritunl/pritunl
