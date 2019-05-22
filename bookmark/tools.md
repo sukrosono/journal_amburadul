@@ -11,13 +11,16 @@
     1. [api-docs][api-docs]
      > data provided by devdocs.io
 
+    1. [atom-snippets][atom-snippets]
     1. [docs-snippets][docs-snippets]
+      > NOT TESTED
 
 [atom1]: https://www.sitepoint.com/10-essential-atom-add-ons/
 [atom2]: https://github.com/atom/autocomplete-plus/wiki/Autocomplete-Providers
 [atom3]: https://atom.io/packages/hyperclick
 [atom4]: https://docs.emmet.io/cheat-sheet/
 [api-docs]: https://atom.io/packages/api-docs
+[atom-snippets]: https://flight-manual.atom.io/using-atom/sections/snippets/
 [docs-snippets]: https://atom.io/packages/docs-snippets
 
 1. GIF
