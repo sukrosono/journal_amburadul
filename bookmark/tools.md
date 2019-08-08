@@ -95,3 +95,10 @@
 
 [tutorial-on-medium]: https://medium.com/@anuradha.15/installation-guide-of-softether-vpn-client-on-linux-54a405a0ae2c
 [pritunl-github]: https://github.com/pritunl/pritunl
+
+
+## Video editing / broadcast related tools
+1. [List from obs][post-prod]
+   > Post production
+
+[post-prod]: https://obsproject.com/forum/resources/post-production-tools-you-can-use.234/

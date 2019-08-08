@@ -46,7 +46,9 @@
    1. [change language on wp][wp-lang]
      > using constant WPLANG still work on wp 5
 
-  1. [wp theme and plugin][wp-thm-pl]
+   1. [wp theme and plugin][wp-thm-pl]
+   1. [wp-erp][wp-erp]
+     > Enterprise Resource Planning
 
 1. WordPress plugin development
    1. [Creating a table in the admin-style][wp-stack-1]
@@ -68,6 +70,7 @@
 [ci-php]: https://github.com/bcit-ci/CodeIgniter
 [Cakephp]: https://github.com/cakephp/cakephp
 [awesome-cakephp]: https://github.com/FriendsOfCake/awesome-cakephp
+[wp-erp]: https://github.com/wp-erp/wp-erp
 
 ## ORM
 1. [Atlas orm][atlas-orm]
