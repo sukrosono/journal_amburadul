@@ -101,4 +101,8 @@
 1. [List from obs][post-prod]
    > Post production
 
+1. Opensource video editor [comparison][compare1] [comparison1][compare2]
+
+[compare1]: https://www.tecmint.com/best-free-video-editing-softwares-for-linux/
+[compare2]: https://itsfoss.com/best-video-editing-software-linux/
 [post-prod]: https://obsproject.com/forum/resources/post-production-tools-you-can-use.234/
