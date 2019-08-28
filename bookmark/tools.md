@@ -85,6 +85,11 @@
 
 [tools-doc]: https://github.com/unicodeveloper/awesome-documentation-tools
 
+## File related tools
+1. [CSON][cson], CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
+
+[cson]: https://github.com/bevry/cson
+
 ## Network related tools
 1. [Soft Ether linux instalation][tutorial-on-medium]
 > no gui, only cli?
