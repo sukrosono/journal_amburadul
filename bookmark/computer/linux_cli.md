@@ -5,11 +5,13 @@
 1. [sed][sed], a stream editor
 1. [tr][tr], Translate, squeeze, and/or delete characters from standard input, writing to standard output.
 1. [purge-old-kernels - safe way to remove old kernels][purge-old-kernels]
+1. [jq][jq], Command-line JSON processor
 
 [grep]: grep https://www.gnu.org/s/grep/manual/grep.html
 [sed]: https://www.gnu.org/software/sed/
 [tr]: https://linux.die.net/man/1/tr
 [purge-old-kernels]: https://mintguide.org/system/622-purge-old-kernels-safe-way-to-remove-old-kernels.html
+[jq]: https://github.com/stedolan/jq
 
 ## Q&A
 1. [How to trim whitespace from a Bash variable?][so1]

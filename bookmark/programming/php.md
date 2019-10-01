@@ -22,6 +22,10 @@
 
   `renew your cert` via https://curl.haxx.se/
 
+## Composer related things
+1. [Composer autocomplete][c-autocomplete]
+
+[c-autocomplete]: https://github.com/bramus/composer-autocomplete
 
 ## Office related
 1. [pdftk](https://www.pdflabs.com/)
@@ -47,17 +51,29 @@
   > A curated list of php library
 
 1. [24 Cool PHP Libraries][24-cool-lib] You Should Know About (2013)
+1. [awesome list][icopy-awesome] by icopy
 
 
 [awesome-php]: https://github.com/ziadoz/awesome-php
 [24-cool-lib]: https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about
+[icopy-awesome]: https://asmen.icopy.site/awesome/awesome-cakephp/
+
+## Useful library
+  1. [Kint][kint]
+    > Kint - debugging helper for PHP developers
+
+[kint]: https://github.com/kint-php/kint
 
 ## Extension
   1. [Enable ext-intl][ext-intl]
     > executed with `apt install php7.3-intl`
 
+  1. [Enable mcrypt][ext-mcrypt]
+    > adjust your php version, it possible that you want the lastest version of mcrypt [see][so-wrong-v]
 
 [ext-intl]: https://stackoverflow.com/questions/42243461/how-to-install-php-intl-extension-in-ubuntu-14-04
+[ext-mcrypt]: https://gist.github.com/arzzen/1209aa4a430bd95db3090a3399e6c35f
+[so-wrong-v]: https://stackoverflow.com/a/55678046/2368696
 
 ## Personal note as developing with php, hopefully be useful.
 
@@ -115,6 +131,10 @@
 [cdi-doc]: https://www.codeigniter.com/user_guide/libraries/sessions.html#files-driver
 [chathu-web]: https://chathu.me/2015/09/30/codeIgniter-3-session-file-driver/
 
+### Encountered Cakephp problem
+1. [Request exceeded the limit of 10][cake-exceed-redirect]
+
+[cake-exceed-redirect]: https://stackoverflow.com/a/15850937/2368696
 
 ## ORM
 1. [Atlas orm][atlas-orm]
@@ -124,19 +144,6 @@
 ## Documentation
 1. [Php Documentor 2][phpdoc2]
 
-
-[wp]: https://codex.wordpress.org/
-[wp-i18n]: https://i18n.svn.wordpress.org/
-[single-wp]: https://wordpress.stackexchange.com/questions/57109/how-to-share-wordpress-core-library
-[wp-lang]: https://codex.wordpress.org/Installing_WordPress_in_Your_Language#WordPress_v4.0_and_above
-[wp-b-4]: https://wordpress.org/themes/wp-bootstrap-4/
-[understrap]: https://github.com/understrap/understrap
-[wp-theme-19]: https://athemes.com/collections/free-wordpress-themes
-[wp-thm-pl]: https://wpackagist.org/
-[wp-cli-handbook]: https://make.wordpress.org/cli/handbook/
-
-
-[wp-stack-1]: https://wordpress.stackexchange.com/questions/1413/creating-a-table-in-the-admin-style
 [phpdoc2]: https://github.com/phpDocumentor/phpDocumentor2
 [psr-autoload]: https://stackoverflow.com/questions/24171078/composer-psr-how-to-autoload-functions
 [intro-composer]: http://www.darwinbiler.com/creating-composer-package-library/
