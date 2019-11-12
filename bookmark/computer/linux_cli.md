@@ -1,5 +1,8 @@
 # CLI (command-line interface)
 
+### Command
+1. `inxi -Fxzd`
+
 ## Commonly used tools
 1. [grep][grep], prints lines that contain a match for one or more patterns.
 1. [sed][sed], a stream editor
@@ -23,6 +26,11 @@
 [so2]: https://stackoverflow.com/a/2462357/2368696
 [askubuntu1]: https://stackoverflow.com/a/2462357/2368696
 [unixqa1]: https://unix.stackexchange.com/questions/101237/how-to-recover-files-i-deleted-now-by-running-rm
+
+## nohat
+1. [A list][list1] by fossmint
+
+[list1]: https://www.fossmint.com/kali-linux-hacking-and-penetration-tools/
 
 ## Multimedia
  - [quickly cut Audio/Video][use-ffmpeg]
