@@ -1,7 +1,7 @@
 # CLI (command-line interface)
 
-### Command
-1. `inxi -Fxzd`
+1. 8 Linux Powerful command<br>
+[![](https://img.youtube.com/vi/Zuwa8zlfXSY/0.jpg)](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 
 ## Commonly used tools
 1. [grep][grep], prints lines that contain a match for one or more patterns.
