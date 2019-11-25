@@ -1,6 +1,14 @@
 ## All about git
 ---
 
+### Extension
+1. Git [LFS][git-lfs]
+   > Head directly to [github help][gh-git-lfs]
+
+[git-lfs]: https://git-lfs.github.com/
+[gh-git-lfs]: https://help.github.com/en/github/managing-large-files
+
+
 1. Workflow
   1. [What is a good Git workflow?](workflow1)
     > [visual tutorial](https://guides.github.com/introduction/flow/) on github workflow

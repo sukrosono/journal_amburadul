@@ -75,14 +75,15 @@
 [ext-mcrypt]: https://gist.github.com/arzzen/1209aa4a430bd95db3090a3399e6c35f
 [so-wrong-v]: https://stackoverflow.com/a/55678046/2368696
 
-## Personal note as developing with php, hopefully be useful.
+## Some problem when developing with php, hopefully be useful.
 
-1.  [Setting time limit][set time limit]
+1. [Setting time limit][set time limit]
     > Only have affects when function call on top of the script.
+1. [Login as apache user][login-as-apache-user]
 
 
 [set time limit]: https://stackoverflow.com/questions/5140258/increase-php-script-execution-time/5140299#5140299 "See my comment"
-
+[login-as-apache-user]: https://unix.stackexchange.com/questions/297926/login-with-apache-user
 
 ## Installation on Linux
 1.  [How to Install and Configure PHP 7.0 or PHP 7.1 on Ubuntu 16.04][install]
@@ -115,10 +116,13 @@
 ### Codeigniter
 1. [Codeigniter HTACCESS Removing index.php from URL.][cdi]
 1. [Tested htaccess with Codeigniter][cdi1] , [htaccess-guide][htaccess]
+1. [racode][racode]
+   > +62 signature
 
 [cdi]: https://github.com/tasmanwebsolutions/htaccess_for_codeigniter
 [cdi1]: https://stackoverflow.com/questions/38477720/remove-index-php-from-url-in-codeigniter-3/38477932
 [htaccess]: http://www.htaccess-guide.com/
+[racode]: https://github.com/nurisakbar/racode
 
 ### Encountered Codeigniter problem
 1. Codeigniter 3 Session not working With >=PHP 7.
