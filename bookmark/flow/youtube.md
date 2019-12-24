@@ -1,4 +1,4 @@
-## List
+# List
   what should I name it?
 
 
@@ -19,20 +19,34 @@
 
 0. Life is infinite game by Simon Sinek<br>
 [![](https://img.youtube.com/vi/_osKgFwKoDQ/0.jpg)](https://www.youtube.com/watch?v=_osKgFwKoDQ)
-   > There is a finite game in infinite game
+   > There is a finite game in infinite game in this ffff life. Just keep remember the context, which the game you'are in.
 
-0. Why leaders eat last<br>
+## Simon Sinek
+Oh it's turn out that my curiosity still on Simon
+
+1. Why leaders eat last<br>
   [![](https://img.youtube.com/vi/ReRcHdeUG9Y/0.jpg)](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
-   > EDSO, Individual chemical: Endorphine-> mass physical pain, Dophamine-> getting stuff done, also when you eat.
+   > EDSO, Individual chemical: **E**ndorphine-> mass physical pain, **D**ophamine-> getting stuff done, also when you eat.
    Vision should be tangible, so could motivate *and trigger dophamine realease?*. Dophamine is **highly addictive**, commonly trigger by
    alchohol, nicotine, gamble and cellphone.
 
-   > SO (social chemical?). Seritonin, leadership chemical.
-   Oxytoxin -> act of generousity, who act and who receive it got axitoxin
+   > SO (social chemical?). Serotonin, leadership chemical.
+   Oxytocin -> act of generousity, who act and who receive it got axitoxin
 
-   > Cortisole @TODO remove typo
+   > Leaving public question about Cortisol, personal question to be precise.
 
-0. Essentialsim | Talks at google<br>
+   > [Reminder about the biological aspect (read mode)][reminder-bio-aspect]
+
+[reminder-bio-aspect]: https://accelerole.com/simon-sinek-leaders-eat-last-model-cooperation-inspired-biology-atd-key-learning/
+
+1. The Infinite Game: How to Lead in the 21st Century<br>
+[![](https://img.youtube.com/vi/3vX2iVIJMFQ/0.jpg)](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
+
+You still read this long?, [Simon still active on youtube][simon-sinek-yt-channel]. Check out his official channel, which by definition is the least action you can do to help him.
+
+[simon-sinek-yt-channel]: https://www.youtube.com/user/SimonSinek
+
+1. Essentialsim | Talks at google<br>
   [![](https://img.youtube.com/vi/sQKrt1-IDaE/0.jpg)](https://www.youtube.com/watch?v=sQKrt1-IDaE)
    > Pursuit of doing less, but better.
    How the intelligent get trick by trivial?. Clarity(remove any clutter). Write a journal lowing your distraction and gaining more focus on you.

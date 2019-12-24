@@ -26,8 +26,14 @@
 1. GIF
     1. [makeagif](http://makeagif.com/video-to-gif) support url
     2. [giphy](https://giphy.com/create/gifmaker) support url
-    2. [ezgif](https://giphy.com/create/gifmaker) file only (max 100MB)
+    2. [ezgif](https://ezgif.com/maker) file only (max 100MB)
+    1. [Software list from itfoss][gif-maker-itfoss]
+    1. [Software list][gif-maker-list]
+    1. [with lovely terminal][gif-via-cli]
 
+[gif-maker-itfoss]: https://itsfoss.com/best-gif-recorder-linux/
+[gif-maker-list]: https://linoxide.com/tools/make-animated-gif-linux/
+[gif-via-cli]: https://askubuntu.com/questions/648244/how-do-i-create-an-animated-gif-from-still-images-preferably-with-the-command-l
 
 1. Prettify Code
 
@@ -85,12 +91,12 @@
 
 [tools-doc]: https://github.com/unicodeveloper/awesome-documentation-tools
 
-## File related tools
+# File related tools
 1. [CSON][cson], CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
 
 [cson]: https://github.com/bevry/cson
 
-## Network related tools
+# Network related tools
 1. [Soft Ether linux instalation][tutorial-on-medium]
 > no gui, only cli?
  yet still not able get the usable list
@@ -102,7 +108,7 @@
 [pritunl-github]: https://github.com/pritunl/pritunl
 
 
-## Video editing / broadcast related tools
+# Video editing / broadcast related tools
 1. [List from obs][post-prod]
    > Post production
 
@@ -111,3 +117,18 @@
 [compare1]: https://www.tecmint.com/best-free-video-editing-softwares-for-linux/
 [compare2]: https://itsfoss.com/best-video-editing-software-linux/
 [post-prod]: https://obsproject.com/forum/resources/post-production-tools-you-can-use.234/
+
+# web as publication tools
+1. [Hexo][Hexo]
+   > Static Site Generator written in nodejs
+
+
+1. [Pelican][pelican]
+   > same thing written in python, support .md and .srt
+
+Ah it's somewhat difficult question, it Hexo over Pelican because people lately say that nodejs is more promising.
+
+[Hexo]: https://github.com/hexojs/hexo
+[pelican]: https://github.com/getpelican/pelican
+
+### spell checker?

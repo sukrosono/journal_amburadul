@@ -96,7 +96,7 @@
 
 ## Handy framework
 1. [CodeIgniter][ci-php]
-   > @TODO brief reason why you use it
+   > Simple and powerful
 1. [Cakephp][Cakephp]
    > @TODO brief reason why you use it
 
@@ -130,6 +130,9 @@
       - [Official documentation][cdi-doc]
       - [Use absolute path][chathu-web]
    - Verifying solutions of [SO question][so-q]
+
+1. Crudigniter Version 3.2
+   > Call to undefined function site_url() -> load url helper
 
 [so-q]: https://stackoverflow.com/a/43816684/2368696
 [cdi-doc]: https://www.codeigniter.com/user_guide/libraries/sessions.html#files-driver

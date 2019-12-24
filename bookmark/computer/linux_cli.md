@@ -16,16 +16,26 @@
 [purge-old-kernels]: https://mintguide.org/system/622-purge-old-kernels-safe-way-to-remove-old-kernels.html
 [jq]: https://github.com/stedolan/jq
 
-## Q&A
+## Usefull tools
+1. [lftp][lftp]
+   > Sophisticated Command-Line FTP/HTTP/BitTorrent Client Programs
+
+[lftp]: https://community.linuxmint.com/software/view/lftp
+
+## Notable Questions
 1. [How to trim whitespace from a Bash variable?][so1]
 1. [It differ bash and sh][so2]
 1. [How do I use wmctrl to detect if a window is present?][askubuntu1]
 1. [How to recover files I deleted now by running rm *?][unixqa1]
+1. [How to split larger files into smaller parts?][split-and-join]
+1. [List files over a specific size][list-over-s-size]
 
 [so1]: https://stackoverflow.com/questions/369758/how-to-trim-whitespace-from-a-bash-variable?answertab=votes#tab-top
 [so2]: https://stackoverflow.com/a/2462357/2368696
 [askubuntu1]: https://stackoverflow.com/a/2462357/2368696
 [unixqa1]: https://unix.stackexchange.com/questions/101237/how-to-recover-files-i-deleted-now-by-running-rm
+[split-and-join]: https://askubuntu.com/questions/54579/how-to-split-larger-files-into-smaller-parts
+[list-over-s-size]: https://stackoverflow.com/a/38294145/2368696
 
 ## nohat
 1. [A list][list1] by fossmint
