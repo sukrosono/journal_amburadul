@@ -20,7 +20,16 @@
 1. [lftp][lftp]
    > Sophisticated Command-Line FTP/HTTP/BitTorrent Client Programs
 
+1. [File sharing][file-sharing-cli]
+1. [Terminal-recording][terminal-recording]
+1. [Gdrive cli][gdrive-cli]
+   > gdrive is a command line utility for interacting with Google Drive.
+   personally, it still lead to open issue (#533)
+
 [lftp]: https://community.linuxmint.com/software/view/lftp
+[file-sharing-cli]: https://www.tecmint.com/file-sharing-from-linux-commandline/
+[terminal-recording]: https://www.tecmint.com/showterm-io-a-terminalshell-recording-upload-and-share-tool-for-linux/
+[gdrive-cli]: https://github.com/gdrive-org/gdrive
 
 ## Notable Questions
 1. [How to trim whitespace from a Bash variable?][so1]
