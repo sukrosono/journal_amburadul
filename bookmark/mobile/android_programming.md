@@ -23,6 +23,7 @@
 [ui-101-part2]: https://android.jlelse.eu/android-ui-development-101-part-2-viewgroups-6c21c387b9e4
 
 ## Important term nor concept
+<!-- @TODO rearrage -->
 
 1. [ViewModel][vm]
 1. [Publish/versioning][pub-versioning]
@@ -31,11 +32,18 @@
 1. [Using an ArrayAdapter with ListView][arrayadapter-listview]
    > from open guide codepath
 
+1. [LiveData][livedata]
+1. [Activity-lifecycle][activity-lifecycle]
+1. [Fragment][fragment]
+
 [vm]: https://developer.android.com/topic/libraries/architecture/viewmodel
 [pub-versioning]: https://developer.android.com/studio/publish/versioning
 [api-level]: https://developer.android.com/guide/topics/manifest/uses-sdk-element
 [flex-ui]: https://developer.android.com/training/basics/fragments/fragment-ui
 [arrayadapter-listview]: https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView
+[livedata]: https://developer.android.com/topic/libraries/architecture/livedata
+[activity-lifecycle]: https://developer.android.com/guide/components/activities/activity-lifecycle
+[fragment]: https://developer.android.com/guide/components/fragments
 
 ## Layouting
 1. [Constraint Layout][constraint-layout-sample]
