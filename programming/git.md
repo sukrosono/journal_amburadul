@@ -108,6 +108,10 @@
 [auto-deploy-do]: https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
 [git-auto-deploy]: https://medium.com/@francoisromain/vps-deploy-with-git-fea605f1303b
 
+6. [Subtree][git-subtree-intro]
+
+[git-subtree-intro]: https://www.atlassian.com/git/tutorials/git-subtree
+
 6. Config
   1. Core Editor, on [github help](config1)
     > hate vim, need the GUI text editor?

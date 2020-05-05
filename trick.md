@@ -1,3 +1,4 @@
+<!-- trickster -->
 # General Trick
 
 1. [Proxying ur youtube-dl][proxy-cli]

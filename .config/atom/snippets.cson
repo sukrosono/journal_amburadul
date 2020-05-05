@@ -32,8 +32,8 @@
     'body': """${1:1}. ${2:Video title / name}<br>
       [![](https://img.youtube.com/vi/${3:video_id}/${4:0}.jpg)]
       (https://www.youtube.com/watch?v=$3)"""
+
+'.source.md':
   'note line separator 95 charlenght':
     'prefix': 'sprtr'
     'body': """##############################################################################################"""
-
-'.source.md':
