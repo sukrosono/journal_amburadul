@@ -5,6 +5,9 @@
 
 # Java8
 <!-- todo diff statefull filter and x filter -->
+1. [Guide][java8-guide-winterbe] by winterbe.
+
+[java8-guide-winterbe]: https://github.com/winterbe/java8-tutorial
 
 ## Java8 collections brief/gentle intro
 1. Fristly, [java-cli][java-cli].

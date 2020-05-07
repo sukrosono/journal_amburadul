@@ -4,19 +4,24 @@
 [![](https://img.youtube.com/vi/Zuwa8zlfXSY/0.jpg)](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 
 ## Commonly used tools
+
 1. [grep][grep], prints lines that contain a match for one or more patterns.
 1. [sed][sed], a stream editor
-1. [tr][tr], Translate, squeeze, and/or delete characters from standard input, writing to standard output.
-1. [purge-old-kernels - safe way to remove old kernels][purge-old-kernels]
-1. [jq][jq], Command-line JSON processor
+1. [tr](tr), Translate, squeeze, and/or delete characters from standard input, writing to standard output.
+1. curl or wget? [unix se](unix-se) [askubuntu](ask-ubuntu-curl-wget)
+1. [purge-old-kernels - safe way to remove old kernels](purge-old-kernels)
+1. [jq](jq), Command-line JSON processor
+
 
 [grep]: grep https://www.gnu.org/s/grep/manual/grep.html
 [sed]: https://www.gnu.org/software/sed/
 [tr]: https://linux.die.net/man/1/tr
+[unix-se]: https://unix.stackexchange.com/questions/47434/what-is-the-difference-between-curl-and-wget
+[ask-ubuntu-curl-wget]: https://askubuntu.com/questions/678404/what-is-the-difference-between-curl-and-wget
 [purge-old-kernels]: https://mintguide.org/system/622-purge-old-kernels-safe-way-to-remove-old-kernels.html
 [jq]: https://github.com/stedolan/jq
 
-## Usefull tools
+## Useful tools
 1. [lftp][lftp]
    > Sophisticated Command-Line FTP/HTTP/BitTorrent Client Programs
 

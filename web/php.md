@@ -15,6 +15,9 @@
 
 1. WordPress plugin development
    1. [Creating a table in the admin-style][wp-stack-1]
+   1. [web-stories-wp][google-wp-plugin]
+
+[google-wp-plugin]: https://github.com/google/web-stories-wp
 
 1. Wordpress theme
    1. [WP Bootstrap 4][wp-b-4]
