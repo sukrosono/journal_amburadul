@@ -8,6 +8,7 @@
     2. [Auto complete provider list](atom2)
     2. [Hyperclick](atom3)
     2. [Emmet cheat sheet](atom4)
+    1. [Change indentation](atom5)
     1. [api-docs][api-docs]
      > data provided by devdocs.io
 
@@ -22,6 +23,7 @@
 [api-docs]: https://atom.io/packages/api-docs
 [atom-snippets]: https://flight-manual.atom.io/using-atom/sections/snippets/
 [docs-snippets]: https://atom.io/packages/docs-snippets
+[atom5]: https://stackoverflow.com/questions/41848002/how-to-replace-tabs-with-spaces-in-atom
 
 1. GIF
     1. [makeagif](http://makeagif.com/video-to-gif) support url
@@ -104,9 +106,13 @@
 1. [pritunl][pritunl-github]
 > not yet tried
 
+1. Monitoring
+  1. [Sarg][sarg-install]
+
+
 [tutorial-on-medium]: https://medium.com/@anuradha.15/installation-guide-of-softether-vpn-client-on-linux-54a405a0ae2c
 [pritunl-github]: https://github.com/pritunl/pritunl
-
+[sarg-intsall]: https://www.tecmint.com/sarg-squid-analysis-report-generator-and-internet-bandwidth-monitoring-tool/
 
 # Video editing / broadcast related tools
 1. [List from obs][post-prod]
@@ -120,7 +126,7 @@
 
 # web as publication tools
 1. [Hexo][Hexo]
-   > Static Site Generator written in nodejs
+   > Static Site Generator written in nodejs, and It so fucking awesome.
 
 
 1. [Pelican][pelican]

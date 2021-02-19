@@ -6,7 +6,9 @@
 0.  Macro for web (on browser)
 0.  Synchronize Trello with git? (md file)
 
-
+###FB
+  - login IG
+  - post to FB from IG
 ### Youtube
 
 0.  Common mistake webdev (not know yet)

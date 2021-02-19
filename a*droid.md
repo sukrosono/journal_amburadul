@@ -1,3 +1,9 @@
+# A*droid
+  Android is a droid, as simple as that!
+
+## Official SDK(https://developer.android.com/studio)
+  SDK -> named ADT, Android Development kit. Please before downloading and storing the file for offile use, constult the [release](https://developer.android.com/studio/releases). The all-kit, is expecting gradle (cli tools) installed properly.
+
 #### Android Version
 v1.x.x initial release (really old) (gone)
  recommend to support start 1.6

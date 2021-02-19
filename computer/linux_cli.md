@@ -21,6 +21,15 @@
 [purge-old-kernels]: https://mintguide.org/system/622-purge-old-kernels-safe-way-to-remove-old-kernels.html
 [jq]: https://github.com/stedolan/jq
 
+## Useful core tools
+1. ffmpeg
+   > the bloody FFMPEG yay!!
+
+  **Stack**, [4 input](https://stackoverflow.com/a/35044065/2368696), [*opo sambung rapet e karo gstreamer?*](https://stackoverflow.com/questions/575705/how-can-i-tile-videos-create-a-video-montage)
+
+<hr>
+https://mediaarea.net/en/MediaInfo
+
 ## Useful tools
 1. [lftp][lftp]
    > Sophisticated Command-Line FTP/HTTP/BitTorrent Client Programs

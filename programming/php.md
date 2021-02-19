@@ -1,3 +1,6 @@
+# PHP supported version
+  Please see [official information](https://www.php.net/supported-versions.php).
+
 # PHP related tools etc
 
 ## PHP command
@@ -154,6 +157,15 @@
 [phpdoc2]: https://github.com/phpDocumentor/phpDocumentor2
 [psr-autoload]: https://stackoverflow.com/questions/24171078/composer-psr-how-to-autoload-functions
 [intro-composer]: http://www.darwinbiler.com/creating-composer-package-library/
+
+## intersection dimension
+1. mau bkin url ready qr code buat g calendar app
+  https://developers.google.com/calendar/auth
+  you found https://github.com/thephpleague/oauth2-client, which is owned by https://github.com/thephpleague. See https://github.com/thephpleague/oauth2-client/blob/master/docs/providers/thirdparty.md for popular providers.
+  - sencondary option
+    https://github.com/cirrusidentity/simplesamlphp-module-authoauth2#installation
+    > seems more simpler
+  Try it out ffs
 
 
 ## Common use
