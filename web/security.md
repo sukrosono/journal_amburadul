@@ -1,9 +1,14 @@
-### Table of Contents
+# Table of Contents
 ---
-1. populate
-0. populate
+1. You might [see](../security/trick.md)
 
-#### Common vulnerable aspect
+## Tools
+1. [Tool X](https://github.com/rajkumardusad/Tool-X)
+  > Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based distributions.
+
+1. [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+
+### Common vulnerable aspect
 ---
 1. upload file to server
 
