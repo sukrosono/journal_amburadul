@@ -7,6 +7,7 @@
 [bugmenot]: http://bugmenot.com/
 
 # Tools
+1. Nmap
 1. [Burp Suite](https://portswigger.net/burp)
 1. [sqlmap](https://github.com/sqlmapproject/sqlmap)
 1. [ghidra](https://ghidra-sre.org/)

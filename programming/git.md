@@ -17,8 +17,10 @@
 
 2. Commit.
   1. [Art of Commit](commit1)
+  1. [Undoing and Editing Commits](commit1)
 
 [commit1]: http://alistapart.com/article/the-art-of-the-commit?utm_source=hashnode.com "The Art of the commit by David Demaree"
+[commit2]: https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html
 
 3. Stash
   - [Using the Stash Command][stash1]
