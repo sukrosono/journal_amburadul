@@ -9,7 +9,7 @@
 [gh-git-lfs]: https://help.github.com/en/github/managing-large-files
 
 
-1. Workflow
+2. Workflow
   1. [What is a good Git workflow?](workflow1)
     > [visual tutorial](https://guides.github.com/introduction/flow/) on github workflow
 
@@ -18,6 +18,7 @@
 2. Commit.
   1. [Art of Commit](commit1)
   1. [Undoing and Editing Commits](commit1)
+  1. Drop a commit [forcefully](https://stackoverflow.com/questions/1338728/delete-commits-from-a-branch-in-git)? use [cherry-pick](https://www.clock.co.uk/insight/deleting-a-git-commit)?
 
 [commit1]: http://alistapart.com/article/the-art-of-the-commit?utm_source=hashnode.com "The Art of the commit by David Demaree"
 [commit2]: https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html

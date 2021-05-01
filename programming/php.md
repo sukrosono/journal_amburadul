@@ -51,7 +51,7 @@
 
 ## Another list
 1. [awesome-php][awesome-php]
-  > A curated list of php library
+   > A curated list of php library
 
 1. [24 Cool PHP Libraries][24-cool-lib] You Should Know About (2013)
 1. [awesome list][icopy-awesome] by icopy
@@ -97,7 +97,7 @@
 [install1]: https://askubuntu.com/questions/856793/upgrade-to-the-specific-php-7-1-7-2-from-php-7-0-in-ubuntu-16-04
 [install2]: https://www.2daygeek.com/install-lamp-stack-apache-mariadb-php-phpmyadmin-on-linuxmint/#
 
-## Handy framework
+# Handy framework
 1. [CodeIgniter][ci-php]
    > Simple and powerful
 1. [Cakephp][Cakephp]
@@ -116,7 +116,7 @@
 [enable-site]: https://linuxize.com/post/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04/
 [vh-hosts]: https://stackoverflow.com/q/19263135/2368696
 
-### Codeigniter
+## Codeigniter
 1. [Codeigniter HTACCESS Removing index.php from URL.][cdi]
 1. [Tested htaccess with Codeigniter][cdi1] , [htaccess-guide][htaccess]
 1. [racode][racode]
