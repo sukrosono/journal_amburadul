@@ -1,7 +1,7 @@
-## Hardware
+# Hardware
 
 
-### Mod
+## Mod
 
   1. Replace DVD drive space with HDD/ SDD.
      - https://www.youtube.com/watch?v=uTiTi7kphK0
