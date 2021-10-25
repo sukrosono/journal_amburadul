@@ -1,0 +1,7 @@
+# node_modules
+node_modules/
+# your example js
+js/*.js
+.imdone/
+/.imdone/
+npm-debug.log

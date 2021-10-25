@@ -1,0 +1,5 @@
+{
+    "dark": "1",
+    "docs": "backbone/bash/bootstrap~4/bootstrap~3/chai/codeigniter~3/coffeescript~2/css/d3~5/dom/dom_events/express/git/html/http/javascript/jquery/knockout/markdown/mocha/node~8_lts/node~6_lts/node~10_lts/npm/php/pug/python~3.7/python~3.6/python~2.7/react/rethinkdb~javascript/svg/underscore/webpack",
+    "tips": "KeyNav"
+}
