@@ -159,13 +159,12 @@
 [intro-composer]: http://www.darwinbiler.com/creating-composer-package-library/
 
 ## intersection dimension
-1. mau bkin url ready qr code buat g calendar app
-  https://developers.google.com/calendar/auth
-  you found https://github.com/thephpleague/oauth2-client, which is owned by https://github.com/thephpleague. See https://github.com/thephpleague/oauth2-client/blob/master/docs/providers/thirdparty.md for popular providers.
-  - sencondary option
+1. Mau bikin url ready qr code buat [g-calendar](https://developers.google.com/calendar/auth) app.
+Found https://github.com/thephpleague/oauth2-client, which is owned by [thephpleague](https://github.com/thephpleague). See https://github.com/thephpleague/oauth2-client/blob/master/docs/providers/thirdparty.md for popular providers.
+   - sencondary option
     https://github.com/cirrusidentity/simplesamlphp-module-authoauth2#installation
     > seems more simpler
-  Try it out ffs
+  Try it out dude
 
 
 ## Common use
