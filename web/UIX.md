@@ -1,3 +1,6 @@
+# SEO
+Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption
+
 # User Interface Experience
 
 ## Theme

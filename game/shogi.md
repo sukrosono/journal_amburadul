@@ -1,4 +1,4 @@
-# [Shogi][shogi-wiki]
+# [Shogi][shogi-wiki] [gnu-shogi](https://www.gnu.org/software/gnushogi/)
 
 [shogi-wiki]: https://en.wikipedia.org/wiki/Shogi
 ## Guide
@@ -16,6 +16,8 @@
 1. [Shogi, Let's become Shikamaru](http://blogggwe.blogspot.com/2011/12/shogi-lets-become-shikamaru-for-bit.html)
    > creep?
 
+## Offsite
+What we mean by offsite is on computer, not using real board, and the direction of unixlike OS instead on unfancy windows. Basically gnushogi have 3 kids, [Xboard](https://www.gnu.org/software/xboard/), [kaya](http://pcapriotti.github.io/kaya/screenshots.html) and 
 
 ## On android
 1. [81Dojo][81Dojo-ps]
