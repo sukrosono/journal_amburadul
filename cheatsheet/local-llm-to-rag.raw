@@ -1,0 +1,70 @@
+Dengan informasi bahwa Anda menggunakan Linux Arch dan Windows, mari sesuaikan kembali (restate) strategi training aman agar 100% kompatibel 
+dengan kartu grafis AMD Radeon RX 6700 XT (12GB VRAM) Anda.
+Kabar baik untuk ekosistem AMD: Unsloth secara resmi mendukung GPU AMD secara native melalui platform ROCm! 
+Ini berarti Anda tidak perlu mengorbankan performa atau beralih ke framework lain.
+1. Rekomendasi OS Terbaik: Linux Arch (Native)Gunakan Linux Arch sebagai sistem utama Anda untuk melakukan training. 
+ROCm (Radeon Open Compute) berjalan jauh lebih stabil secara native di Linux dibandingkan menggunakan lapisan emulasi Windows/WSL2.2.
+Langkah Setup Lingkungan AMD di Linux Arch
+Buka terminal Arch Anda dan jalankan perintah instalasi terpadu dari Unsloth yang secara otomatis mendeteksi hardware AMD Anda
+, mengonfigurasi driver ROCm, dan memasang PyTorch yang optimal
+
+:bash# Mengunduh dan menjalankan skrip installer otomatis dari Unsloth
+curl -fsSL https://unsloth.ai/install.sh | sh
+Gunakan kode dengan hati-hati.
+
+Catatan Penting untuk AMD: 
+Jika Anda memilih menggunakan instalasi Python manual lewat pip atau uv, 
+pastikan menggunakan flag tambahan pip install unsloth[amd] 
+dan instalasi bitsandbytes versi ROCm terbaru agar tidak terkena bug nilai NaN 
+saat kuantisasi 4-bit.3. 
+
+Tugas Ringan: Script Otomatis Pembuat Dataset (Alpaca Format)Untuk menjaga agar model 
+Anda tidak mengalami Catastrophic Forgetting (lupa kemampuan dasar), 
+jalankan skrip Python ringan ini di komputer Anda untuk menyusun data mentah menjadi berpasangan (Instruksi dan Respons)
+
+:pythonimport json
+
+# Representasi data mentah milik Anda (silakan ganti isinya)
+raw_data = [
+    {
+        "instruksi": "Bagaimana kebijakan pengembalian barang di toko kita?",
+        "respons": "Pengembalian barang dapat dilakukan maksimal 7 hari setelah pembelian dengan membawa nota asli."
+    },
+    {
+        "instruksi": "Bagaimana cara melakukan reset password user?",
+        "respons": "Buka menu pengaturan, klik 'Lupa Password', lalu masukkan email terdaftar untuk menerima link reset."
+    }
+]
+
+# Mengubah data ke format standard Alpaca (Paling aman untuk kestabilan model)
+formatted_dataset = []
+for item in raw_data:
+    formatted_dataset.append({
+        "instruction": item["instruksi"],
+        "input": "", # Biarkan kosong jika tidak ada teks konteks tambahan
+        "output": item["respons"]
+    })
+
+# Menyimpan hasil akhir
+with open("dataset_siap_training.json", "w", encoding="utf-8") as f:
+    json.dump(formatted_dataset, f, indent=4, ensure_ascii=False)
+
+print("Selesai! File 'dataset_siap_training.json' siap dipakai untuk training LoRA.")
+Gunakan kode dengan hati-hati.
+4. Batasan & Aturan Main untuk RX 6700 XT (12GB VRAM)
+Karena VRAM Anda berada di angka 12GB, ikuti parameter keamanan berikut di dalam konfigurasi training Anda untuk menghindari 
+error Out of Memory (OOM):
+
+Gunakan Kuantisasi 4-bit (QLoRA): 
+Ini wajib agar model 8B seperti Llama 3 bisa masuk ke dalam 12GB VRAM bersama memori trainingnya.
+Max Sequence Length: Batasi panjang teks di angka 2048 token.
+Jangan naik ke 4096 kecuali Anda memperkecil ukuran batch.
+LoRA Rank (\(r\)) & Alpha (\(\alpha \)): Set Rank ke 16 dan Alpha ke 32. 
+Ini adalah setelan "kemudi lembut" yang melatih data baru Anda tanpa merusak sirkuit pengetahuan bawaan model.
+Setelah training selesai di Linux Arch menggunakan Unsloth Studio, 
+Anda tinggal mengekspornya ke format .gguf dan memindahkannya ke 
+aplikasi Ollama (baik yang terpasang di Arch maupun di Windows Anda)
+menggunakan file perintah Modelfile.Jika file dataset di atas sudah Anda siapkan, 
+beri tahu saya:Apakah Anda ingin saya buatkan skrip Python .py lengkap untuk 
+eksekusi training langsung di terminal Arch Anda?
+Model dasar apa yang ingin Anda gunakan? (Contoh: Llama 3 8B atau Mistral 7aB)
