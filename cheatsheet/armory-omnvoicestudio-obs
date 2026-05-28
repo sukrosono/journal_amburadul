@@ -1,0 +1,45 @@
+## 1. The Real-Time Shock: How It Works
+The system-wide dictation widget handles everything instantly without lag: [1] 
+
+   1. The Trigger: While your backend is active, press Ctrl + Shift + Space (or Cmd + Shift + Space if you are using a Mac layout). [2] 
+   2. The Stream: A small, frameless floating widget appears. As you talk, your voice streams directly into your RX 6700 XT over a local WebSocket connection. [1] 
+   3. The Magic: The WhisperX AI engine transcribes your words in real time. The moment you stop speaking, the widget automatically types the text directly into your active window (like your stream chat or overlay) and instantly disappears. [1, 2] 
+
+------------------------------
+## 3. The Best Methods to Route This to OBS Studio
+Since you hate Streamlabs, OBS Studio is the perfect choice—it is far cleaner and more lightweight.
+Since OmniVoice Studio is fundamentally a creator studio rather than a live voice-changer filter (like Voicemod), you have two main methods to use these assets in OBS. The best option depends on your goal: [3] 
+## Method A: The Pre-Recorded Audio File Route (Best for Intros & Alerts)
+This is the cleanest, lowest-latency method for broadcasting. You use OmniVoice to design custom alerts and intros, download them, and trigger them inside OBS.
+
+* How to do it:
+1. In OmniVoice Studio, generate your custom voice lines or translated clips and download the audio files (.mp3 or .wav).
+   2. Open OBS Studio.
+   3. In the Sources box, click the + icon and select Media Source.
+   4. Browse and select your downloaded audio file.
+   5. Check the box for "Restart playback when source becomes active".
+* Why it's the best: It requires zero virtual routing, uses almost no resources while you stream, and triggers perfectly whenever you click the visibility eyeball icon in OBS.
+
+## Method B: The Virtual Audio Cable Route (Best if you want to pipe the Web App Output Live)
+If you want to play audio directly out of the OmniVoice browser dashboard and have your stream audience hear it live, you need to capture your desktop audio cleanly.
+
+* How to do it:
+1. Open OBS Studio settings and navigate to the Audio tab.
+   2. Under Global Audio Devices, set Desktop Audio to Default.
+   3. Look at your Audio Mixer panel at the bottom of OBS. If you see the meters bounce when you play a video or audio file on your computer, OBS is successfully listening to your desktop.
+   4. Any audio generated inside your web interface at http://localhost:3901 will seamlessly feed straight into your live broadcast pipeline. [4, 5, 6] 
+
+------------------------------
+To make sure your audio flows correctly before you press "Start Streaming," let me know:
+
+* When you play a YouTube video on your computer right now, do you see the green volume bars moving in the OBS Audio Mixer?
+* Are you running a standard PipeWire setup on your Arch Linux system for handling desktop audio?
+
+
+[1] [https://github.com](https://github.com/debpalash/OmniVoice-Studio/releases)
+[2] [https://github.com](https://github.com/debpalash/OmniVoice-Studio/blob/main/README.md)
+[3] [https://www.voicemod.net](https://www.voicemod.net/en/obs/)
+[4] [https://www.youtube.com](https://www.youtube.com/shorts/7I_c-JPKfx4)
+[5] [https://help.elgato.com](https://help.elgato.com/hc/en-us/articles/360033822711-OBS-Link-Listening-to-Game-Audio-in-OBS-Studio)
+[6] [https://streamlabs.com](https://streamlabs.com/content-hub/post/how-to-improve-live-stream-audio)
+
